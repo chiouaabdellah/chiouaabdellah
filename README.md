@@ -24,10 +24,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
 # Hi, I'm Abdellah
 ### AI Engineer | RAG & Agents
 
