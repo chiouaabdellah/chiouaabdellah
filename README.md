@@ -54,10 +54,9 @@ Curious by nature, I love exploring how agents and retrieval systems can make co
 
 ### 🛠 Tech Stack
 
-**Languages:** Python, SQL  
-**AI & Agents:** LangChain, LangGraph, LlamaIndex, ChromaDB, FAISS, Qdrant  
-**ML & Data:** PyTorch, HuggingFace, Scikit-learn, Pandas, NumPy  
-**Tools & DevOps:** Docker, FastAPI, Flask, Git, GitHub Actions, MLflow, Langfuse  
+**Languages:** Python, SQL, Bash 
+**Core tools:** LangChain, LangGraph, scikit-learn, PyTorch, FastAPI, Docker, MLflow
+**Cloud & DevOps:** AWS, git, Langfuse
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
