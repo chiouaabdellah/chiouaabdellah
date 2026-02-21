@@ -28,17 +28,36 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+# Hi, I'm Abdellah
+### AI Engineer | RAG & Agents
 
-###
+Engineer passionate about building intelligent AI systems — from autonomous agents to retrieval-augmented pipelines — that solve real-world problems at scale.
 
-<p align="left">I'm Abdellah, an AI Engineer from Centrale Lille 🇫🇷<br><br>- 🤖 I build LLM-powered agents, RAG systems, and automation pipelines<br>- 🏢 Previously interned at Dassault Systèmes, working on multi-agent architectures<br>- 🔍 Currently exploring agentic tool-use and RAG optimization for enterprise use cases<br>- ⚡ In my free time I tinker with side projects around conversational AI and generative models</p>
+---
 
-###
+### 👩‍💻 About Me
 
-<h3 align="left">🛠 Language and tools</h3>
+I'm an **AI Engineer graduated from Centrale Lille**, with hands-on experience in **AI agents, RAG systems, and workflow automation**.  
+My work focuses on designing and deploying LLM-powered solutions — by combining **modern AI frameworks, solid engineering, and domain understanding**.  
+Curious by nature, I love exploring how agents and retrieval systems can make complex tasks simpler, faster, and more reliable.
 
-###
+---
+
+### 🔍 Currently Exploring
+
+- Designing multi-agent systems for complex task automation  
+- Building and optimizing RAG pipelines for enterprise use cases  
+- Experimenting with LLM tool-use and agentic workflows  
+- Improving MLOps practices for AI-powered applications  
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:** Python, SQL  
+**AI & Agents:** LangChain, LangGraph, LlamaIndex, ChromaDB, FAISS, Qdrant  
+**ML & Data:** PyTorch, HuggingFace, Scikit-learn, Pandas, NumPy  
+**Tools & DevOps:** Docker, FastAPI, Flask, Git, GitHub Actions, MLflow, Langfuse  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -62,11 +81,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📬 Connect with Me
 
-###
+- LinkedIn: [linkedin.com/in/abdellah-chioua](https://www.linkedin.com/in/abdellah-chioua)  
+- Email: [abdellah.chioua.cv@gmail.com](mailto:abdellah.chioua.cv@gmail.com)  
+
+---
+
+### 🔥 My Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chiouaabdellah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
