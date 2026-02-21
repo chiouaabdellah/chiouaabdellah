@@ -50,8 +50,10 @@ Curious by nature, I love exploring how agents and retrieval systems can make co
 
 ### 🛠 Tech Stack
 
-**Languages:** Python, SQL, Bash 
+**Languages:** Python, SQL, Bash
+
 **Core tools:** LangChain, LangGraph, scikit-learn, PyTorch, FastAPI, Docker, MLflow 
+
 **Cloud & DevOps:** AWS, git, Langfuse
 
 <div align="left">
